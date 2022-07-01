@@ -1,0 +1,38 @@
+body{
+    background-image: url('./sole-d-alessandro-g-srxicXz3cxU-unsplash.jpg') ;
+      background-size:cover; 
+      background-repeat:no-repeat;   
+  
+    
+}
+
+/* .h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+} */
+
+.heading{
+    margin-top: 0% !important; 
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.container{
+    /* border-radius: 4px; */
+    text-align: center;
+    font-size: xxx-large;
+    color: white;
+    text-shadow: 1px 1px rgb(247, 251, 252);
+  padding: 1px;
+    margin: 10px 345px 12px 392px;
+
+
+
+
+}
+
